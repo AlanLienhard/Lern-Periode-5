@@ -24,7 +24,7 @@ Etwa in der zweiten Hälfte des zweiten Explorationsblocks, habe ich meinen Lapt
 - [x] Meine Website, die ich vor den Ferien hochgeladen habe, mit fonts, size und colors, verschönern
 - [x] Die selbe Website mit dem Gelernten vom The Cascade Modul anpassen. 
 
-✍️ Heute habe ich das Modul Intro to CSS abgeschlossen und dann auch das erlente Wissen angewendet(nicht alles, aber das meiste), um meine Website zu "verschönern". Das Modul "The Cascade" war mehr ein theoretisches, wo erklärt wird, welche Selectors wie prioritisiert werden, um mögliche Konflikte in CSS zu vermeiden (ID Selector > Class Selector > Type Selector > alle restlichen Selector). In dem Modul gab es unter "Assignment" GitHub Aufgaben, die ich noch nicht alle fertig bearbeitet habe (https://github.com/TheOdinProject/css-exercises/tree/main/foundations). 
+✍️ Heute habe ich das Modul Intro to CSS abgeschlossen und dann auch das erlente Wissen angewendet(nicht alles, aber das meiste), um meine Website zu "verschönern". Das Modul "The Cascade" war mehr ein theoretisches, wo erklärt wird, welche Selectors wie prioritisiert werden, um mögliche Konflikte in CSS zu vermeiden (ID Selector > Class Selector > Type Selector > alle restlichen Selector). In dem Modul gab es unter "Assignment" GitHub Aufgaben, die ich noch nicht alle fertig bearbeitet habe (https://github.com/TheOdinProject/css-exercises/tree/main/foundations). (74 Wörter)
 
 ## 24.5.2024
 
