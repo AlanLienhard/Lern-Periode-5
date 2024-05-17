@@ -19,11 +19,18 @@ Etwa in der zweiten Hälfte des zweiten Explorationsblocks, habe ich meinen Lapt
 
 ## 30.4.2024
 
-- [ ] Erstes "Modul" von CSS, Intro to CSS, abschliessen
+- [x] Erstes "Modul" von CSS, Intro to CSS, abschliessen
 - [ ] Zweites Modul, The Cascade, das, was CSS das C gibt, vollständig durcharbeiten
-- [ ] Meine Website, die ich vor den Ferien hochgeladen habe, mit fonts, size und colors, verschönern
-- [ ] Die selbe Website mit dem Gelernten vom The Cascade Modul anpassen. 
+- [x] Meine Website, die ich vor den Ferien hochgeladen habe, mit fonts, size und colors, verschönern
+- [x] Die selbe Website mit dem Gelernten vom The Cascade Modul anpassen. 
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich das Modul Intro to CSS abgeschlossen und dann auch das erlente Wissen angewendet(nicht alles, aber das meiste), um meine Website zu "verschönern". Das Modul "The Cascade" war mehr ein theoretisches, wo erklärt wird, welche Selectors wie prioritisiert werden, um mögliche Konflikte in CSS zu vermeiden (ID Selector > Class Selector > Type Selector > alle restlichen Selector). In dem Modul gab es unter "Assignment" GitHub Aufgaben, die ich noch nicht alle fertig bearbeitet habe (https://github.com/TheOdinProject/css-exercises/tree/main/foundations). 
+
+## 24.5.2024
+
+- [ ] Die Aufgaben, die im Cascade-Modul der letzten Woche verlinkt sind, abschliessen.
+- [ ] Das nächste Modul, "Inspecting HTML and CSS", was hauptsächlich ums Debuggen und um Tools fürs Inspizieren der beiden Sprachen geht, durcharbeiten.
+- [ ] Das darauffolgende Modul "The Box Model", was um das Postionieren (positioning) und Layout der Website handelt, durcharbeiten
+- [ ] An "The Box Model" weiter arbeiten (ich vermute, dass es mehr Zeit in Anspruch nimmt, sonst mit dem nächsten Modul fortfahren).
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
