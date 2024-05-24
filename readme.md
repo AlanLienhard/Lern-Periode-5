@@ -28,9 +28,10 @@ Etwa in der zweiten Hälfte des zweiten Explorationsblocks, habe ich meinen Lapt
 
 ## 24.5.2024
 
-- [ ] Die Aufgaben, die im Cascade-Modul der letzten Woche verlinkt sind, abschliessen.
-- [ ] Das nächste Modul, "Inspecting HTML and CSS", was hauptsächlich ums Debuggen und um Tools fürs Inspizieren der beiden Sprachen geht, durcharbeiten.
-- [ ] Das darauffolgende Modul "The Box Model", was um das Postionieren (positioning) und Layout der Website handelt, durcharbeiten
-- [ ] An "The Box Model" weiter arbeiten (ich vermute, dass es mehr Zeit in Anspruch nimmt, sonst mit dem nächsten Modul fortfahren).
+- [x] Die Aufgaben, die im Cascade-Modul der letzten Woche verlinkt sind, abschliessen.
+- [x] Das nächste Modul, "Inspecting HTML and CSS", was hauptsächlich ums Debuggen und um Tools fürs Inspizieren der beiden Sprachen geht, durcharbeiten.
+- [x] Das darauffolgende Modul "The Box Model", was um das Postionieren (positioning) und Layout der Website handelt, durcharbeiten
+- [x] An "The Box Model" weiter arbeiten (ich vermute, dass es mehr Zeit in Anspruch nimmt, sonst mit dem nächsten Modul fortfahren).
 
+Ich habe heute die Aufgaben aus dem Cascade-Modul abgeschlossen und später das Modul 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
