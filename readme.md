@@ -33,5 +33,13 @@ Etwa in der zweiten Hälfte des zweiten Explorationsblocks, habe ich meinen Lapt
 - [x] Das darauffolgende Modul "The Box Model", was um das Postionieren (positioning) und Layout der Website handelt, durcharbeiten
 - [x] An "The Box Model" weiter arbeiten (ich vermute, dass es mehr Zeit in Anspruch nimmt, sonst mit dem nächsten Modul fortfahren).
 
-Ich habe heute die Aufgaben aus dem Cascade-Modul abgeschlossen und später das Modul 
+Ich habe heute die Aufgaben aus dem Cascade-Modul abgeschlossen und später das Modul Inpecting HTML and CSS abgeschlossen. Da ging es darum, was man über den Code der Webpage herausfinden kann und das nur durch das "Untersuchen" wenn man auf einer Webpage Rechtsklick macht oder F12 drückt. Im nächsten Modul lernte ich, dass jedes Element aus einer Box besteht, diese in Content, Padding, Border und Margin unterteilt wird. Unten in meinem Code sieht man noch den Unterschied zwischen Inline Box und Outline Box. (83 Wörter)
+
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+
+## 31.05.2024
+
+- [ ] Das nächste Modul "Inline and Outline Box" durcharbeiten
+- [ ] Noch ein Arbeitpaket für Inline and Outline Box, weil ich heute schon ein wenig angefanen habe, und ich fand das kompliziert
+- [ ] Das nächste Modul und auch das nächste "Unterkapitel" Flexbox und "Introduction to Flexbox" durcharbeiten
+- [ ] Modul "Growing and Shrinking" durcharbeiten
