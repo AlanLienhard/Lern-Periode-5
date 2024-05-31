@@ -43,3 +43,13 @@ Ich habe heute die Aufgaben aus dem Cascade-Modul abgeschlossen und später das 
 - [ ] Noch ein Arbeitpaket für Inline and Outline Box, weil ich heute schon ein wenig angefanen habe, und ich fand das kompliziert
 - [ ] Das nächste Modul und auch das nächste "Unterkapitel" Flexbox und "Introduction to Flexbox" durcharbeiten
 - [ ] Modul "Growing and Shrinking" durcharbeiten
+
+Heute habe ich nicht weiter an meinem Code von der Website weitergemacht, sondern ich habe Powershell für das Modul M122 gemacht. Ich habe noch an den Lernaufträgen vom Montag weitergearbeiitet, mit denen ich nicht ganz fertig wurde, und ich habe noch die vorherigen Themen (die, die wir bis jetzt bearbeitet haben) repetiert, weil wir am kommenden Montag bei Herr Fähndrich mit der LB(Leistungsbeurteilung) anfangen. Ich dachte mir, es wäre eine gute Idee, dafür mein Wissen nochmals aufzufrischen.
+Für nächstes mal im LA, mache ich dort am The Odin Project weiter, wo ich letztes Mal stehen blieb. (96 Wörter)
+
+## 07.06.2024
+
+- [ ] Das nächste Modul "Inline and Outline Box" durcharbeiten
+- [ ] Noch ein Arbeitpaket für Inline and Outline Box, weil ich heute schon ein wenig angefanen habe, und ich fand das kompliziert
+- [ ] Das nächste Modul und auch das nächste "Unterkapitel" Flexbox und "Introduction to Flexbox" durcharbeiten
+- [ ] Modul "Growing and Shrinking" durcharbeiten
