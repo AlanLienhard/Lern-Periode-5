@@ -49,7 +49,16 @@ Für nächstes mal im LA, mache ich dort am The Odin Project weiter, wo ich letz
 
 ## 07.06.2024
 
-- [ ] Das nächste Modul "Inline and Outline Box" durcharbeiten
-- [ ] Noch ein Arbeitpaket für Inline and Outline Box, weil ich heute schon ein wenig angefanen habe, und ich fand das kompliziert
-- [ ] Das nächste Modul und auch das nächste "Unterkapitel" Flexbox und "Introduction to Flexbox" durcharbeiten
+- [ x] Das nächste Modul "Inline and Outline Box" durcharbeiten
+- [ x] Noch ein Arbeitpaket für Inline and Outline Box, weil ich heute schon ein wenig angefanen habe, und ich fand das kompliziert
+- [ x] Das nächste Modul und auch das nächste "Unterkapitel" Flexbox und "Introduction to Flexbox" durcharbeiten
 - [ ] Modul "Growing and Shrinking" durcharbeiten
+
+Ich habe zuerst eine neue Website angefangen, damit ich nicht eine Website habe, wo ich Sachen "random" platziere, sondern damt ich eine richtige Website habe. Ich konnte am 7.6. nicht mit den 3 Arbeitspaketen fertig werden, zum Teil weil ich spontan eine neue Website anfing, zum Anderen weil diese Sitzung verkürzt war. Ich habe dann noch zuhause das zweite und dritte Arbeitspaket abgeschlossen. (63 Wörter)
+
+## 14.06.2024
+
+- [ ] Modul "Growind and Shrinking" durcharbeiten
+- [ ] Das darauffolgende Modul "Axes" durcharbeiten
+- [ ] Das darauffolgenge Modul "Alignment" durcharbeiten
+- [ ] Das Gelernte auf meine neue Website anwenden 
