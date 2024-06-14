@@ -49,16 +49,25 @@ Für nächstes mal im LA, mache ich dort am The Odin Project weiter, wo ich letz
 
 ## 07.06.2024
 
-- [ x] Das nächste Modul "Inline and Outline Box" durcharbeiten
-- [ x] Noch ein Arbeitpaket für Inline and Outline Box, weil ich heute schon ein wenig angefanen habe, und ich fand das kompliziert
-- [ x] Das nächste Modul und auch das nächste "Unterkapitel" Flexbox und "Introduction to Flexbox" durcharbeiten
+- [x] Das nächste Modul "Inline and Outline Box" durcharbeiten
+- [x] Noch ein Arbeitpaket für Inline and Outline Box, weil ich heute schon ein wenig angefanen habe, und ich fand das kompliziert
+- [x] Das nächste Modul und auch das nächste "Unterkapitel" Flexbox und "Introduction to Flexbox" durcharbeiten
 - [ ] Modul "Growing and Shrinking" durcharbeiten
 
 Ich habe zuerst eine neue Website angefangen, damit ich nicht eine Website habe, wo ich Sachen "random" platziere, sondern damt ich eine richtige Website habe. Ich konnte am 7.6. nicht mit den 3 Arbeitspaketen fertig werden, zum Teil weil ich spontan eine neue Website anfing, zum Anderen weil diese Sitzung verkürzt war. Ich habe dann noch zuhause das zweite und dritte Arbeitspaket abgeschlossen. (63 Wörter)
 
 ## 14.06.2024
 
-- [ ] Modul "Growind and Shrinking" durcharbeiten
-- [ ] Das darauffolgende Modul "Axes" durcharbeiten
-- [ ] Das darauffolgenge Modul "Alignment" durcharbeiten
-- [ ] Das Gelernte auf meine neue Website anwenden 
+- [x] Modul "Growing and Shrinking" durcharbeiten
+- [x] Das darauffolgende Modul "Axes" durcharbeiten
+- [x] Das darauffolgenge Modul "Alignment" durcharbeiten
+- [x] Das Gelernte auf meine neue Website anwenden
+
+Ich habe   heute die drei letzten Module von den Flexbox-Basics abgeschlossen, das nächste Unterkapitel sind die JavaScript-Basics. Ich Bevor ich gross JavaScript lerne, möchte ich meine Website verbessern mit CSS und HTML. Ich habe dort ein Problem, wo die Transition von Bildern andere Elemente mit verschieben (auf der Index-Seite geht das "Welcome" mit) und auf der "Ranking" Seite kann ich die <ol> nicht zentrieren, da sich die <li> Elemente überlappen. Das möchte ich nächstes Mal beheben. (76 Wörter)
+
+## 21.06.2024
+
+- [ ] Das oben beschriebene Problem mit transition beheben
+- [ ] Das oben beschriebene Problem mit der <ol> beheben
+- [ ] Ein Transition Effekt zu der Dropdown Liste hinzufügen
+- [ ] Weiter am Modul M293 oder M122 weiterarbeiten (Website oder PowerShell Skript)
