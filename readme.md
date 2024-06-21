@@ -70,4 +70,12 @@ Ich habe   heute die drei letzten Module von den Flexbox-Basics abgeschlossen, d
 - [ ] Das oben beschriebene Problem mit transition beheben
 - [ ] Das oben beschriebene Problem mit der <ol> beheben
 - [ ] Ein Transition Effekt zu der Dropdown Liste hinzufügen
-- [ ] Weiter am Modul M293 oder M122 weiterarbeiten (Website oder PowerShell Skript)
+- [x] Weiter am Modul M293 oder M122 weiterarbeiten (Website oder PowerShell Skript)
+
+Heute hatten wir nur drei Arbeitspakete. Ich habe in dieser Sitzung die ganze Zeit dazu gewidmet, um weiter an meiner Website für das Modul M293 zu arbeiten. Ich hatte Probleme mit der Positionierung von meinem Footer, konnte aber letzendlich dieses, und andere kleine Probleme, lösen. Für die Website soll ich nur noch ein Logo kriegen, den Inhalt vom Footer fertig positionieren, damit ich den Footer und Header für alle Seiten benutzen kann. Dann muss ich nur noch den Text auf der Website machen (und noch für das Modul die Dokumentation). (90 Wörter)
+
+
+## 28.06.2024
+
+- [ ] Bei meiner persöhnlichen Website das Problem mit transition beheben
+- [ ] Bei meiner persöhnlichen Website das Problem mit <ol> beheben
