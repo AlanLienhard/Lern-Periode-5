@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selector Basics</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    
+    <div class="header-container">
+        <div class="header">
+            
+            <div class="logo"><a href="../index.html"> <img  class="logo-img" src="../images/coding.png" alt="HTML und CSS free icon, von justicon"> </a>   </div>
+
+            <div class="page-title">Selektoren und Basics</div>
+            
+            <nav class="linksPages">
+                <div class="dropdown">
+                    <a class="droptext"><b>HTML</b></a>
+                    <div  class="dropdown-content">
+                      <a href="../pages/Elements.html">Elements</a>
+                      <a href="../pages/ClassesIDs.html">Classes & IDs</a>
+                      
+                      
+                    </div>
+                </div>
+                <div class="dropdown">
+                    <a class="droptext"><b>CSS</b></a>
+                    <div  class="dropdown-content">
+                      <a href="../pages/SelectorsBasics.html">Selectors & Basics</a>
+                      
+                      
+                    </div>
+                </div>
+
+
+                <div><a id="about" href="../pages/About.html"><b>About Me</b></a></div>
+
+                
+                 
+            </nav>
+        </div>
+    </div>
+
+
+    <div class="content">
+        <div class="text-content"> 
+        <p>Im Grunde genommen besteht CSS aus Regeln (z.B. Hintergrundfarbe eines Elementes, Textgrösse, Textfarbe). Mittels Selektoren wählt man aus, auf was für Elemente, Klassen oder IDs diese Regeln angewendet werden.</p>
+        <p>Es gibt drei Arten von Selektoren, die am meisten benutzt werden; <b>universelle Selektoren</b>, <b>Type Selektoren</b> und <b>Class/ID Selektoren</b>. </p>
+        <p></p>
+        <h3 class="paragraphHeader">Universelle</h3>
+        <p></p>
+        <p>Universelle Selektoren werden mit einem Asterisk <code>*</code> geschrieben. </p>
+        <p>Die Regeln, die im Universellen Selektor aufgestellt wurden, gelten für die ganze Website oder Webseite (je nachde, ob das CSS Dokument für die Website gilt oder für nur eine Seite).</p>
+        <p></p>
+        <h3 class="paragraphHeader">Type Selektoren</h3>
+        <p></p>
+        <p>Type Selektoren selektrieren nach Elementen. Dafür muss man nur den Namen des Elementes schreiben (ohne Öffnungs- und Schliessungstag oder ähnliche Zeichen).</p>
+        <p>Die Regeln, die dort aufgestellt wurden, gelten nur für die Elemente, die ausgewählt wurden.</p>
+        <p></p>
+        <h3 class="paragraphHeader">Class & ID Selektoren</h3>
+        <p></p>
+        <p>Class Selektoren werden so geschrieben, indem man zuerst einen Punkt setzt und dann den Namen der Class ohne Leerzeichen hinschreibt.</p>
+        <p><code>.ClassName {Aufgestellte: Regel;}</code></p>
+        <p>Bei IDs ist die Syntax die selbe, jedoch muss man ein <code>#</code> anstatt einen <code>.</code> schreiben.</p>
+        <p>Das praktische an Classes ist, dass man damit mehrere Elemente/Container auswählen kann, ohne dass man die Regeln für das gesamte Element aufstellt.</p>
+        <p>Bei Classes kann man auch Elementübergreifend Regeln aufstellen; z.B. <code>&lt;div class="BeispielClass"&gt;  &lt;span class=BeispielClass&gt;</code>, beide Elemente kriegen dasselbe Styling, sofern es das Rendering erlaubt (div ist ein block und span ist inline).</p>
+        <p></p>
+        <h3 class="paragraphHeader">Einfache Syntax</h3>
+        <p></p>
+        <p>Bei Selektoren schreibt man, wie Sie im Bild sehen können, zuerst das, was selektiert werden soll. Daraufhin folgt ein geschweiftes Klammernpaar, indem dann die Regeln stehen.</p>
+        <p>Bei den Regeln kommt zuerst die Eigenschaft der Regel, dann ein Doppelpunkt <code>:</code>.</p>
+        <p>Hinter dem Doppelpunkt ist dann der Wert der Regel, dann folgt ein Semicolon <code>;</code> um das Ende der Regel anzuzeigen. Letzendlich beendet die schliessende geschweifte Klammer die Selektion.</p>
+        <p></p>
+        <p>Sie können auch mehrere Elemente, Classes oder IDs auf einmal selektieren, indem Sie zuerst das erste Element der Selektion schreiben, dann ein Komma gefolgt von einem Leerzeichen und dann den Namen des weiteren Elementes.</p>
+        <p><code> .BeispielClass, #Beispiel-ID {Aufgestellte: Regel;}</code></p>
+
+        
+        <div class="imgs-content"> </div><a href="https://cdn.statically.io/gh/TheOdinProject/curriculum/05ce472eabf8e04eeb2cc9139e66db884074fd7d/foundations/html_css/css-foundations/imgs/00.jpg" target="_blank" rel="noopener noreferrer">  <img class="images-responsive"  src="../images/CSS-Bild.jpg" alt="Grafik, das Selector-Syntax erklärt, The Odin Project"></a> </div>
+      
+        </div>
+
+    <div class="footer-containter">
+        <div class="footer">
+            <nav class="footer-nav">
+            <a class="foot-link" href="../index.html">Welcome</a>
+            <p><a class="foot-link" href="../pages/Elements.html">Elements</a></p>
+            <a class="foot-link" href="../pages/ClassesIDs.html"><p class="foot">Classes & IDs</p></a>
+            <a class="foot-link" href="../pages/SelectorsBasics.html"><p class="foot">Selectors & Basics</p></a>
+            <a class="foot-link" href="../pages/About.html"><p class="foot">About Me</p></a>
+
+            </nav>
+            <div class="contact">
+                <h3>Contact</h3>
+                <p>Alan Lienhard</p>
+                <p></p>
+            </div>
+        </div>
+
+
+
+    </div>
+
+</body>
+</html>

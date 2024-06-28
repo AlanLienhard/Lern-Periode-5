@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classes & IDs</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    
+    <div class="header-container">
+        <div class="header">
+            
+            <div class="logo"><a href="../index.html"> <img  class="logo-img" src="../images/coding.png" alt="HTML und CSS free icon, von justicon"> </a>   </div>
+
+            <div class="page-title">Classes & IDs</div>
+            
+            <nav class="linksPages">
+                <div class="dropdown">
+                    <a class="droptext"><b>HTML</b></a>
+                    <div  class="dropdown-content">
+                      <a href="../pages/Elements.html">Elements</a>
+                      <a href="../pages/ClassesIDs.html">Classes & IDs</a>
+                      
+                      
+                    </div>
+                </div>
+                <div class="dropdown">
+                    <a class="droptext"><b>CSS</b></a>
+                    <div  class="dropdown-content">
+                      <a href="../pages/SelectorsBasics.html">Selectors & Basics</a>
+                      
+                      
+                    </div>
+                </div>
+
+
+                <div><a id="about" href="../pages/About.html"><b>About Me</b></a></div>
+
+                
+                 
+            </nav>
+        </div>
+    </div>
+
+
+    <div class="content">
+        <div class="text-content">
+            Classes und IDs in HTML-Elementen werden hauptsächlich dafür genutzt, um von Stylesheets wie zum Beispiel CSSs (Cascadian Style Sheets) referenziert zu werden. Das resultiert in einer Website, die besser und leserlicher aussieht. 
+            <p>Zudem werden Classes und IDs in JavaScript verwendet, jedoch habe ich das noch nicht gelernt und kann somit Ihnen nicht genau erklären, wozu Classes und IDs in JavaScript gebraucht werden.</p>
+            <p>Classes haben sehr viele Gemeinsamkeiten zu IDs und unterscheiden sich hauptsächlich in der Weise, wie man sie in CSS referenziert (das erkläre ich Ihnen genauer auf <a href="../pages/SelectorsBasics.html">dieser </a>Seite) und wie viele Elemente damit angesprochen werden können.
+                Elemente können auch beliebig viele Classes und IDs beinhalten. Elemente können sogar gleichzeitig Classes und IDs haben.
+                <code>&lt;div class="Beispielclass" id"Beispiel-ID"&gt;Text&lt;/div&gt;</code>
+                </p>
+                
+               <h3 class="paragraphHeader" >IDs</h3>
+
+                <p>IDs sind einzigartig. Das heisst nicht, dass sie super toll sind, sondern dass sie nur auf ein Element pro Seite angewendet werden können. Deshalb sind auch die Anwendungsfälle begrenzt auf Sachen, die eine Webpage/Webseite inhaltlich von anderen abgrenzt (zum Beispiel ein <code>&lt;h1&gt; &lt;/h1&gt;</code> Header als Titel von der Seite). </p>
+                <p>IDs werden auch oft für "jumping" Links verwendet. Jumping Links sind relative Links, das heisst, sie verlinken eine Textstelle auf derselben Seite, damit man sie findet und nicht scrollen und sie suchen soll.</p>
+                <p>IDs in HTML müssen nicht unbedingt Zahlen sein (wie man es zum Beispiel von SQL kennt), sondern sie sind üblicherweise Strings, die den Nutzen der ID beschreiben.</p>
+
+                <h3 class="paragraphHeader"> Classes</h3>
+
+                <p>Classes können von unbegrenzt vielen Elementen verwendet werden.
+                    Classes machen vor allem das Styling mit Stylesheets (CSS) einfacher. Man kann mehrere Elemente, sie müssen nicht einmal denselben Tag haben, gleich stylen. Das gibt dem Entwickler bzw. dem Designer mehr Freiheit und Möglichkeiten, um die Website zu stylen, was darin resultiert, dass der Benutzer eine bessere Erfahrung hat.
+                    </p>
+                <p>Ein Beispiel wäre, dass man sehr oft <code>&lt;div&gt;</code> oder <code>&lt;span&gt;</code> als Container verwendet. Damit nicht alles <code>&lt;div&gt;</code>>s und <code>&lt;span&gt;</code>s gleich aussehen, gibt man ihnen meistens eine Class (es würden auch IDs gehen, wäre aber aufwendiger), damit man diese <code>&lt;div&gt;</code> und <code>&lt;span&gt;</code>  Elemente in "Gruppen" aufteilen kann, die alle gleich gestyled sind.</p>
+
+        </div>
+        <div class="imgs-content"><a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdotnettutorials.net%2Flesson%2Fclasses-in-html%2F&psig=AOvVaw1STIgIq__282tM81SLtrtp&ust=1719515702976000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDv5ej9-YYDFQAAAAAdAAAAABAE" target="_blank" rel="noopener noreferrer"><img class="images-responsive" src="../images/HTML-classes.png" alt="Bild, das Classes beschreibt, von Dot Net Tutorials"> </a> 
+        <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdotnettutorials.net%2Flesson%2Fids-in-html%2F&psig=AOvVaw1Dwcxz5SgtQoXXDR1CV6mn&ust=1719516297904000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiC6sL_-YYDFQAAAAAdAAAAABAE" target="_blank" rel="noopener noreferrer"><img class="images-responsive" src="../images/HTML-ids.png" alt="Bild, das IDs beschreibt, von Dot Net Tutorials"> </a>
+        </div>
+      
+    </div>
+
+    <div class="footer-containter">
+        <div class="footer">
+            <nav class="footer-nav">
+            <a class="foot-link" href="../index.html">Welcome</a>
+            <p><a class="foot-link" href="../pages/Elements.html">Elements</a></p>
+            <a class="foot-link" href="../pages/ClassesIDs.html"><p class="foot">Classes & IDs</p></a>
+            <a class="foot-link" href="../pages/SelectorsBasics.html"><p class="foot">Selectors & Basics</p></a>
+            <a class="foot-link" href="../pages/About.html"><p class="foot">About Me</p></a>
+
+            </nav>
+            <div class="contact">
+                <h3>Contact</h3>
+                <p>Alan Lienhard</p>
+                <p></p>
+            </div>
+        </div>
+
+
+
+    </div>
+
+</body>
+</html>
