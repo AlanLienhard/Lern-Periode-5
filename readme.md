@@ -95,4 +95,8 @@ Diese Website ist responsiv (passt sich auf die Bilschirmgrösse an, ausser bei 
 
 ## Fertiges Projekt 2
 
+https://github.com/AlanLienhard/Lern-Periode-5/blob/main/Pr%C3%A4sentation2.gif
+![image](https://github.com/AlanLienhard/Lern-Periode-5/assets/142605666/6482f1fb-c48c-4a2a-a892-4c6d67389996)
+![image](https://github.com/AlanLienhard/Lern-Periode-5/assets/142605666/3b7530a8-1d93-43e4-a3eb-6c8cc3d5d7ce)
+
 
