@@ -77,5 +77,9 @@ Heute hatten wir nur drei Arbeitspakete. Ich habe in dieser Sitzung die ganze Ze
 
 ## 28.06.2024
 
-- [ ] Bei meiner persöhnlichen Website das Problem mit transition beheben
-- [ ] Bei meiner persöhnlichen Website das Problem mit <ol> beheben
+- [x] Bei meiner persöhnlichen Website das Problem mit transition beheben
+- [x] Bei meiner persöhnlichen Website das Problem mit ```<ol>``` beheben
+
+Heute habe ich die zwei Probleme behoben, die auf meiner persöhnlichen Website waren. Bei dem Problem mit der Transition vom Logo oben links, verschiebt es den Text in der Mitte nicht mehr nach unten. Jedoch wird der Text ein wenig nach rechts gedrückt, weil das Logo mehr Platz beansprucht. Beim Problem mit den ordered lists half es mir, dass ich die Liste in einen Flex-container packe und diesen dann verschiebe, anstatt das Element der List direkt. (76 Wörter)
+
+## Fertiges Projekt 1
