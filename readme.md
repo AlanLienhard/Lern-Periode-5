@@ -102,3 +102,19 @@ https://github.com/AlanLienhard/Lern-Periode-5/blob/main/Pr%C3%A4sentation2.gif
 Dieses Projekt habe ich spät in der Lern-Periode angefangen. Es hat, wie im Ersten, eine Dropdown-Liste und bestimmter Text wird herhorgehoben, wenn man mit dem Mauszeiger drauf geht. Zudem haben die Bilder hier ein Transition-Effekt, der, in meinem Fall, die Bilder grösser werden lässt, wenn man mit dem Mauzeiger drauf geht. (51 Wörter)
 
 ## LP-Reflexion
+
+In dieser Lernperiode habe ich grösstenteils an der Introduction von einem kostenlosen Lernprogramm "The Odin Project" gearbeitet. Da habe ich die Basics von HTML und CSS gelernt, die ich auch in meinen 2 fertigen Projekten umgesetzt habe. Ich habe mit dem ersten fertigen Projekt viel früher angefangen, deswegen sieht es aus besser und "polierter" aus.
+Mein Verbesserungsvorschlag war es, fokusierter zu arbeiten und meine Arbeitspakete und Planung genauer zu machen, was ich meiner Meinung nach erreicht habe, aber es gibt immer Luft nach oben.
+Ich habe auch manchmal im Lern-Atelier nicht an meinen Projekten, die hier im Github sind, weitergearbeitet, sondern auch an benoteten Schulprojekten, die eine viel höhere Dringlichkeit hatten. (111 Wörter)
+
+## LA-Reflexion
+
+Auf der technischen Ebene in diesem Jahr lernte ich, mit C# einen CLI-Basierten Taschenrechner zu schreiben, der die Grundoperationen beherrscht. Ich lernte auch, mit Win-Forms in C# GUI-Anwendungen zu schreiben. Ich habe mich auch ein einen Snake-Spiel versucht, das mir aber nicht gut gelungen ist. In der vierten Lernperiode lernte ich es, mit APIs zu arbeiten und ich fing an mit dem "The Odin Project".
+
+Im Bezug zur Arbeitsweise, lernte ich im Verlaufe des Schuljahres, immer genauere Arbeitspakete (in der Formulierung, sowie auch der Zeitplanung) zu schreiben und auch Reflexionen. Ich lernte auch, Github als Portfolio zu verwenden (je nachdem, könnten Sie das zur technischen Ebene nehmen).
+
+Ich möchte nächstes Jahr im LA nicht mehr Zeit "verschwenden" mit Projekten, die mir nicht gefallen. Manchmal dachte ich, ein Projekt wäre eine gute Idee für mich und fing dann an, daran zu arbeiten. Nach einiger Zeit, merkte ich, dass mir das Projekt nicht richtig gefällt. Die Folge davon ist, dass ich viel unproduktiver und unmotivierter arbeite und dadurch auch weniger schnell Programmieren lerne.
+
+Mir gefiel am LA, dass man frei ist, in dem was man macht, solange es produktiv ist (man könnte auch für andere Fächer lernen). Mir gefielen auch die Online- und Distanzunterrichtslektionen, weil ich zuhause viel weniger abgelenkt bin, einen besseren Arbeitsplatz habe (Dekstop PC, besseren Tisch und Stuhl) als in der BBB.
+
+Das einzige, was für eine Änderung ich mir im LA wünschen würde, ist, dass mir mehr Online arbeiten können, weil wir nächstes Jahr 4 mal (anstatt 3) in Baden sind und das würde viel Reisezeit sparen. (259 Wörter)
