@@ -91,4 +91,8 @@ Heute habe ich die zwei Probleme behoben, die auf meiner persöhnlichen Website 
 ![image](https://github.com/AlanLienhard/Lern-Periode-5/assets/142605666/d46c3fd4-6388-4782-96fc-32e64ef0d5c8)
 
 
+Diese Website ist responsiv (passt sich auf die Bilschirmgrösse an, ausser bei extrem kleinen) mit der Hilfe von CSS. Sie ist in drei Hauptteile aufgeteilt; Header, Content und Footer, alle sind flex-container. Dadurch können sie wachsen und schrumpfen (sie haben immer den gleichen Anteil von der Bilschirmgrösse, gleich viele viewports). Die Website hat auch ein repsonsiven Hover-Effekt, wenn man mit dem Mauszeiger über bestimmte Text-Segmente geht (Dropwdown). Sie hat auch eine ausklappbare Drowdownliste. (73 Wörter)
+
+## Fertiges Projekt 2
+
 
