@@ -101,3 +101,4 @@ https://github.com/AlanLienhard/Lern-Periode-5/blob/main/Pr%C3%A4sentation2.gif
 
 Dieses Projekt habe ich spät in der Lern-Periode angefangen. Es hat, wie im Ersten, eine Dropdown-Liste und bestimmter Text wird herhorgehoben, wenn man mit dem Mauszeiger drauf geht. Zudem haben die Bilder hier ein Transition-Effekt, der, in meinem Fall, die Bilder grösser werden lässt, wenn man mit dem Mauzeiger drauf geht. (51 Wörter)
 
+## LP-Reflexion
