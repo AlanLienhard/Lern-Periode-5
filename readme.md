@@ -84,7 +84,7 @@ Heute habe ich die zwei Probleme behoben, die auf meiner persöhnlichen Website 
 
 ## Fertiges Projekt 1
 
-![image](https://github.com/AlanLienhard/Lern-Periode-5/assets/142605666/ceb0fe8e-637b-4f07-9ce4-4c8cebcc8dfa)
+
 
 ![image](https://github.com/AlanLienhard/Lern-Periode-5/assets/142605666/2c6bd57a-7b01-4d5c-98a2-1fb7ff0be348)
 
